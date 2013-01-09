@@ -5,6 +5,7 @@
 ;;
 ;; See: http://reflections.irythia.com/2010/10/31/starcraft-ii-lost-viking/
 
+#IfWinActive, StarCraft II
 
 Activated := 0
  
